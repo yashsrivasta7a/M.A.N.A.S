@@ -1,4 +1,6 @@
 # M.A.N.A.S (Mostly Automated, Naturally Awesome Sidekick)
+( Named after my school friend Manas, who's been by my side for a very long time ) .
+
 
 M.A.N.A.S is a context-aware, voice-activated personal assistant for Windows, designed to help with daily tasks, answer questions, execute commands, and provide helpful, clear, and sometimes witty responses. It leverages Azure OpenAI for intelligent conversation and Azure Speech Services for high-quality speech synthesis in Indian voices.
 
